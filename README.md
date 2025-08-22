@@ -18,10 +18,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshrawat311&show_icons=true&locale=en&layout=compact" alt="shivanshrawat311" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshrawat311&show_icons=true&locale=en" alt="shivanshrawat311" /></p>
-<img src="https://raw.githubusercontent.com/shivanshrawat311/shivanshrawat311/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-###
 
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNzcTdzcjJ5cGxvN2owcjRtdWtpbHFvcnA4N28xemR4bGcxcjNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zqihZZ5Qny4q4/giphy.gif"  />
