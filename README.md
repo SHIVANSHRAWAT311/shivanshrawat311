@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Rawat</h1>
 <h3 align="center">A passionate student, who thrives to learn more</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHIVANSHRAWAT311&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 - 🌱 I’m currently learning **React Native**
 - 📫 How to reach me: **editzzeeco@gmail.com**
 
