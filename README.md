@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shivansh Rawat</h1>
 <h3 align="center">A passionate student, who thrives to learn more</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshrawat311&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshrawat311" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SHIVANSHRAWAT311&label=Profile%20views&color=0e75b6&style=flat" alt="SHIVANSHRAWAT311" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshrawat311" alt="shivanshrawat311" /></a> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIVANSHRAWAT311&show_icons=true&theme=dark" alt="Shivansh's GitHub Stats" />
+</p>
+
 
 - 🌱 I’m currently learning **React Native**
 
